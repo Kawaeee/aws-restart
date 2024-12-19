@@ -16,4 +16,3 @@ Happy coding!
 
 ## Changes
 - format -> f-string
-- 
