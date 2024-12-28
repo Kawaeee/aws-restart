@@ -14,7 +14,7 @@ def main():
         for i in range(1, 251):
             prime_check = is_prime(i)
             if prime_check:
-                output_file.write(f"{i}\n")  # Display all the prime numbers between 1 to 250.
+                output_file.write(f"{i} ")  # Display all the prime numbers between 1 to 250.
 
 
 if __name__ == "__main__":
